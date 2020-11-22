@@ -1,4 +1,3 @@
-
 def hopper
 	programmer_hash = 
  		{
@@ -58,10 +57,10 @@ def dennis_ritchies_language
 end
 
 def adding_matz
-# add the following information to the top level of programmer_hash
+# add the following information to the top level of the programmer hash
 # :yukihiro_matsumoto => {
 #   :known_for => "Ruby",
-#    :languages => ["LISP", "C"]
+#    :languages => ["LISP, C"]
 # }
 
 	programmer_hash = 
@@ -99,7 +98,7 @@ def changing_alan
           :languages => ["C"]
         }
      }
-     #change what Alan Kay is :known_for to the value of the alans_new_info variable. 
+     #change what Alan Kay is :known_for the value of the alans_new_info variable. 
      alans_new_info = "GUI"
      
      
@@ -122,4 +121,18 @@ def adding_to_dennis
         }
      }
 
+     
 end
+
+
+
+
+
+
+
+
+
+
+
+
+
