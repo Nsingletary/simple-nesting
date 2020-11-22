@@ -27,7 +27,7 @@ end
 def dennis_ritchies_language
   programmer_hash =
   {
-    :grace_hopper => {
+    :dennis_ritchies_language => {
     :known_for => "COBOL",
     :languages => ["C"]
   }
