@@ -17,7 +17,7 @@ def alan_kay_is_known_for
   {
     :alan_kay => {
     :known_for => "Object Orientation",
-    :languages => ["C"]
+    :languages => ["GUI"]
   }
 }
   programmer_hash[:alan_kay][:known_for]
@@ -32,7 +32,7 @@ def dennis_ritchies_language
       :languages => ["C"]
   }
 }
-  programmer_hash[:dennis_ritchie][:languages]
+  programmer_hash[:dennis_ritchie][:languages][1]
   end
 
 
