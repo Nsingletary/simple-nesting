@@ -27,12 +27,12 @@ end
 def dennis_ritchies_language
   programmer_hash =
   {
-    :dennis_ritchies => {
+    :dennis_ritchies_language => {
       :known_for => "Unix",
       :languages => ["C"]
   }
 }
-  programmer_hash[:dennis_ritchie][:languages][0]
+  programmer_hash[:dennis_ritchie][:languages][C]
   end
 
 
