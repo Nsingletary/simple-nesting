@@ -30,7 +30,7 @@ def dennis_ritchies_language
     :dennis_ritchies=>{
       :known_for=>"Unix",
       :languages=>["C"]
-  }
+  },
 
 
 
